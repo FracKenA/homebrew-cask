@@ -9,7 +9,6 @@ cask "greenlight" do
   name "Greenlight"
   desc "Open-source client for xCloud and xHome streaming"
   homepage "https://github.com/unknownskl/greenlight"
-  homepage ""
 
   # Documentation: https://docs.brew.sh/Brew-Livecheck
   livecheck do
